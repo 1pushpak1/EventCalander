@@ -1,0 +1,74 @@
+﻿@model IEnumerable<EventCalenderApp.Models.ViewModels.PublishedViewModels>
+@{
+    ViewBag.Title = "Event Index";
+}
+
+<h2><u>Event Available</u> </h2>
+<table class="table table-bordered">
+    <tr class="danger">
+        <th>
+            @Html.DisplayName("SL")
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EventTitle)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EventTypeName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EventVenueName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EventStartTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EventEndTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EventMaxBookingTime)
+        </th>
+
+        <th>
+            @Html.DisplayName("Booking")
+        </th>
+
+    </tr>
+    @{ int sl = 0;}
+    @foreach (var item in Model)
+    {
+        sl++;
+        <tr class="table-hover bg-info">
+            <td>
+                @sl
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EventTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EventTypeName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EventVenueName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EventStartTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EventEndTime)
+
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.EventMaxBookingTime)
+            </td>
+            <td>
+                @Html.ActionLink("Book Now!", "", "", new {@id = item.EventId}, new {@class = "btn btn-info"})
+            </td>
+        </tr>
+    }
+
+</table>
+<p class="text-right">
+    @Html.ActionLink("Registration Now!","EventIndex","Event", new { @class = "btn btn-warning" })
+</p>
+

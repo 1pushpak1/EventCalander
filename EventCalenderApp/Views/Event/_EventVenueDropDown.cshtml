@@ -1,0 +1,8 @@
+﻿@model EventCalenderApp.Models.ViewModels.EventVenueDropDownViewModel
+
+@Html.LabelFor(model => model.EventVenueId, htmlAttributes: new { @class = "control-label col-md-2" })
+<div class="col-md-10">
+    @Html.DropDownListFor(m => m.EventVenueId, new SelectList(Model.EventVenues, "EventVenueId", "EventVenueName"), " Select Event Venue ", new { @class = "form-control" })
+    @Html.ValidationMessageFor(model => model.EventVenueId, "", new { @class = "text-danger" })
+</div>
+

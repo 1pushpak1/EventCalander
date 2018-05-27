@@ -1,0 +1,108 @@
+﻿
+@model EventCalenderApp.Models.ViewModels.EventDetailViewModel
+
+@{
+    ViewBag.Title = "View Event";
+}
+
+<h2>Event Details View</h2>
+<hr />
+@if (TempData["msg"] != null)
+{
+    <div class="alert alert-info">
+        @Html.Raw(TempData["msg"])
+    </div>
+}
+
+<p>
+    @Html.ActionLink("Create New", "CreateEvent","Event",new {@class="btn btn-success"})
+</p>
+<table class="table table-bordered">
+    <tr class="danger">
+        <th>
+            @Html.DisplayName("SL")
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EventTitle)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EventStarTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EventEndTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EventMaxBookingTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IsPublished)
+        </th>
+        <th>
+            @Html.DisplayName("Activity")
+        </th>
+        <th>
+            @Html.DisplayName("Edit")
+        </th>
+        <th>
+            @Html.DisplayName("Delete")
+        </th>
+    </tr>
+    @{ int sl = 0;}
+@foreach (var item in Model.EventDetails) {
+    sl++;
+    <tr class="table-hover bg-info">
+        <td>
+            @sl
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EventTitle)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EventStarTime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EventEndTime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EventMaxBookingTime)
+        </td>
+        <td>
+            @Html.HiddenFor(modelItem => item.IsPublished)
+            @if (item.IsPublished)
+            {
+                @Html.Raw("Yes")
+            }
+            else
+            {
+                @Html.Raw("No")
+            }
+        </td>
+        <td>
+            @if (item.IsPublished == false)
+            {
+                @Html.ActionLink("Publish", "Publish", "Event", new {@id = item.EventId}, new {@class = "btn btn-info"})
+            }
+            else
+            {
+                @Html.ActionLink("UnPublish", "Publish", "Event", new {@id = item.EventId}, new {@class = "btn btn-danger" })
+            }
+
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", "Event", new {@id = item.EventId}, new {@class = "btn btn-warning"})
+        </td>
+        <td>
+            @if (item.IsDeleted == false)
+            {
+               @Html.ActionLink("Delete!", "Delete", "Event", new { @id = item.EventId }, new { @class = "btn btn-danger" })
+            }
+            else
+            {
+                @Html.ActionLink("Retrive!", "Delete", "Event", new { @id = item.EventId }, new { @class = "btn btn-warning" })
+            }
+            
+        </td>
+    </tr>
+}
+
+</table>

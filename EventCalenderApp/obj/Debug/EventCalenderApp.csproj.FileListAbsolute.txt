@@ -1,0 +1,272 @@
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\roslyn\csc.exe
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\roslyn\System.Collections.Immutable.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\roslyn\System.Reflection.Metadata.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\roslyn\vbc.exe
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\roslyn\VBCSCompiler.exe
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\roslyn\VBCSCompiler.exe.config
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\EventCalenderApp.dll.config
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\EventCalenderApp.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\EventCalenderApp.pdb
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\Antlr3.Runtime.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\EntityFramework.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\EntityFramework.SqlServer.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\Microsoft.AspNet.Identity.Core.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.Cookies.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.Facebook.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.Google.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.OAuth.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.Twitter.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\Microsoft.Web.Infrastructure.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\Newtonsoft.Json.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\Owin.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\System.Web.Helpers.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\System.Web.Mvc.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\System.Web.Optimization.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\System.Web.Razor.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\System.Web.WebPages.Deployment.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\System.Web.WebPages.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\System.Web.WebPages.Razor.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\WebGrease.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\System.Web.Helpers.xml
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\System.Web.Mvc.xml
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\System.Web.Optimization.xml
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\System.Web.Razor.xml
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\System.Web.WebPages.xml
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\System.Web.WebPages.Deployment.xml
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\System.Web.WebPages.Razor.xml
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\Antlr3.Runtime.pdb
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\Newtonsoft.Json.xml
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\EntityFramework.xml
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\EntityFramework.SqlServer.xml
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\Microsoft.AspNet.Identity.Core.xml
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.xml
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.xml
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.Facebook.xml
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.Cookies.xml
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.OAuth.xml
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.Google.xml
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.Twitter.xml
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\obj\Debug\EventCalenderApp.dll
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\obj\Debug\EventCalenderApp.pdb
+F:\DotNetPractice01Batch\Day 67\EventCalenderApp\EventCalenderApp\obj\Debug\EventCalenderApp.csprojResolveAssemblyReference.cache
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\roslyn\csc.exe
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\roslyn\System.Collections.Immutable.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\roslyn\System.Reflection.Metadata.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\roslyn\vbc.exe
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\roslyn\VBCSCompiler.exe
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\roslyn\VBCSCompiler.exe.config
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\EventCalenderApp.dll.config
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\EventCalenderApp.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\EventCalenderApp.pdb
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\Antlr3.Runtime.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\EntityFramework.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\EntityFramework.SqlServer.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\Microsoft.AspNet.Identity.Core.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.Cookies.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.Facebook.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.Google.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.OAuth.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.Twitter.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\Microsoft.Web.Infrastructure.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\Newtonsoft.Json.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\Owin.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\System.Web.Helpers.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\System.Web.Mvc.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\System.Web.Optimization.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\System.Web.Razor.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\System.Web.WebPages.Deployment.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\System.Web.WebPages.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\System.Web.WebPages.Razor.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\WebGrease.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\Antlr3.Runtime.pdb
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\EntityFramework.xml
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\EntityFramework.SqlServer.xml
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.xml
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.xml
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.Cookies.xml
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.Facebook.xml
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.Google.xml
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.OAuth.xml
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.Twitter.xml
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\Newtonsoft.Json.xml
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\System.Web.Helpers.xml
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\System.Web.Mvc.xml
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\System.Web.Razor.xml
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\System.Web.WebPages.xml
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\System.Web.WebPages.Deployment.xml
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\System.Web.WebPages.Razor.xml
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\System.Web.Optimization.xml
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\Microsoft.AspNet.Identity.Core.xml
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\obj\Debug\EventCalenderApp.csprojResolveAssemblyReference.cache
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\obj\Debug\EventCalenderApp.Migrations.intial.resources
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\obj\Debug\EventCalenderApp.csproj.GenerateResource.Cache
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\obj\Debug\EventCalenderApp.dll
+F:\DotNetPractice01Batch\Day 69\EventCalenderApp\EventCalenderApp\obj\Debug\EventCalenderApp.pdb
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\EventCalenderApp.dll.config
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\EventCalenderApp.dll
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\EventCalenderApp.pdb
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\EntityFramework.xml
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.xml
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.xml
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\System.Web.Helpers.xml
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\System.Web.Mvc.xml
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\System.Web.Razor.xml
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\System.Web.WebPages.xml
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\System.Web.Optimization.xml
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\obj\Debug\EventCalenderApp.dll
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\obj\Debug\EventCalenderApp.pdb
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\obj\Debug\EventCalenderApp.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\obj\Debug\EventCalenderApp.Migrations.initial_migration.resources
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\obj\Debug\EventCalenderApp.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\EventCalenderApp\EventCalenderApp\obj\Debug\EventCalenderApp.Migrations.foreign_key_added.resources
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\roslyn\csc.exe
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\roslyn\System.Collections.Immutable.dll
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\roslyn\System.Reflection.Metadata.dll
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\roslyn\vbc.exe
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\roslyn\VBCSCompiler.exe
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\roslyn\VBCSCompiler.exe.config
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\EventCalenderApp.dll.config
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\EventCalenderApp.dll
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\EventCalenderApp.pdb
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\Antlr3.Runtime.pdb
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\EntityFramework.xml
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\EntityFramework.SqlServer.xml
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.xml
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.xml
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.Cookies.xml
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.Facebook.xml
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.Google.xml
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.OAuth.xml
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\Microsoft.Owin.Security.Twitter.xml
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\Newtonsoft.Json.xml
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\System.Web.Helpers.xml
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\System.Web.Mvc.xml
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\System.Web.Razor.xml
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\System.Web.WebPages.xml
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\System.Web.WebPages.Deployment.xml
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\System.Web.WebPages.Razor.xml
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\System.Web.Optimization.xml
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\Microsoft.AspNet.Identity.Core.xml
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\obj\Debug\EventCalenderApp.csprojResolveAssemblyReference.cache
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\obj\Debug\EventCalenderApp.Migrations.initial_migration.resources
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\obj\Debug\EventCalenderApp.Migrations.foreign_key_added.resources
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\obj\Debug\EventCalenderApp.csproj.GenerateResource.Cache
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\obj\Debug\EventCalenderApp.dll
+F:\DotNetPractice01Batch\MVC\EventCalenderApp\EventCalenderApp\obj\Debug\EventCalenderApp.pdb
+C:\Users\Bc\Desktop\EventCalenderApp\EventCalenderApp\bin\roslyn\csc.exe
+C:\Users\Bc\Desktop\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bc\Desktop\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bc\Desktop\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bc\Desktop\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bc\Desktop\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bc\Desktop\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bc\Desktop\EventCalenderApp\EventCalenderApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bc\Desktop\EventCalenderApp\EventCalenderApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bc\Desktop\EventCalenderApp\EventCalenderApp\bin\roslyn\vbc.exe
+C:\Users\Bc\Desktop\EventCalenderApp\EventCalenderApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bc\Desktop\EventCalenderApp\EventCalenderApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bc\Desktop\EventCalenderApp\EventCalenderApp\bin\EventCalenderApp.dll.config
+C:\Users\Bc\Desktop\EventCalenderApp\EventCalenderApp\bin\EventCalenderApp.dll
+C:\Users\Bc\Desktop\EventCalenderApp\EventCalenderApp\bin\EventCalenderApp.pdb
+C:\Users\Bc\Desktop\EventCalenderApp\EventCalenderApp\obj\Debug\EventCalenderApp.Migrations.initial_migration.resources
+C:\Users\Bc\Desktop\EventCalenderApp\EventCalenderApp\obj\Debug\EventCalenderApp.Migrations.foreign_key_added.resources
+C:\Users\Bc\Desktop\EventCalenderApp\EventCalenderApp\obj\Debug\EventCalenderApp.csproj.GenerateResource.Cache
+C:\Users\Bc\Desktop\EventCalenderApp\EventCalenderApp\obj\Debug\EventCalenderApp.dll
+C:\Users\Bc\Desktop\EventCalenderApp\EventCalenderApp\obj\Debug\EventCalenderApp.pdb
+C:\Users\Bc\Desktop\EventCalenderApp\EventCalenderApp\obj\Debug\EventCalenderApp.csprojResolveAssemblyReference.cache
+D:\MBH\EventCalenderApp\EventCalenderApp\bin\roslyn\csc.exe
+D:\MBH\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MBH\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MBH\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MBH\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MBH\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MBH\EventCalenderApp\EventCalenderApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MBH\EventCalenderApp\EventCalenderApp\bin\roslyn\System.Collections.Immutable.dll
+D:\MBH\EventCalenderApp\EventCalenderApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\MBH\EventCalenderApp\EventCalenderApp\bin\roslyn\vbc.exe
+D:\MBH\EventCalenderApp\EventCalenderApp\bin\roslyn\VBCSCompiler.exe
+D:\MBH\EventCalenderApp\EventCalenderApp\bin\roslyn\VBCSCompiler.exe.config
+D:\MBH\EventCalenderApp\EventCalenderApp\bin\EventCalenderApp.dll.config
+D:\MBH\EventCalenderApp\EventCalenderApp\bin\EventCalenderApp.dll
+D:\MBH\EventCalenderApp\EventCalenderApp\bin\EventCalenderApp.pdb
+D:\MBH\EventCalenderApp\EventCalenderApp\obj\Debug\EventCalenderApp.csprojResolveAssemblyReference.cache
+D:\MBH\EventCalenderApp\EventCalenderApp\obj\Debug\EventCalenderApp.Migrations.initial_migration.resources
+D:\MBH\EventCalenderApp\EventCalenderApp\obj\Debug\EventCalenderApp.Migrations.foreign_key_added.resources
+D:\MBH\EventCalenderApp\EventCalenderApp\obj\Debug\EventCalenderApp.csproj.GenerateResource.Cache
+D:\MBH\EventCalenderApp\EventCalenderApp\obj\Debug\EventCalenderApp.dll
+D:\MBH\EventCalenderApp\EventCalenderApp\obj\Debug\EventCalenderApp.pdb
